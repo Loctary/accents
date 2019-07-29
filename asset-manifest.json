@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/accents/static/css/main.747614b2.chunk.css",
+    "main.js": "/accents/static/js/main.2b80c885.chunk.js",
+    "main.js.map": "/accents/static/js/main.2b80c885.chunk.js.map",
+    "runtime~main.js": "/accents/static/js/runtime~main.1dccf40c.js",
+    "runtime~main.js.map": "/accents/static/js/runtime~main.1dccf40c.js.map",
+    "static/js/2.cb7ebafd.chunk.js": "/accents/static/js/2.cb7ebafd.chunk.js",
+    "static/js/2.cb7ebafd.chunk.js.map": "/accents/static/js/2.cb7ebafd.chunk.js.map",
+    "index.html": "/accents/index.html",
+    "precache-manifest.195e127ed4b5d71dbd17d469f1c8872e.js": "/accents/precache-manifest.195e127ed4b5d71dbd17d469f1c8872e.js",
+    "service-worker.js": "/accents/service-worker.js",
+    "static/css/main.747614b2.chunk.css.map": "/accents/static/css/main.747614b2.chunk.css.map"
+  }
+}
