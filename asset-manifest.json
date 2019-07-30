@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/accents/static/css/main.747614b2.chunk.css",
-    "main.js": "/accents/static/js/main.2b80c885.chunk.js",
-    "main.js.map": "/accents/static/js/main.2b80c885.chunk.js.map",
+    "main.css": "/accents/static/css/main.a9e7e137.chunk.css",
+    "main.js": "/accents/static/js/main.70c2433c.chunk.js",
+    "main.js.map": "/accents/static/js/main.70c2433c.chunk.js.map",
     "runtime~main.js": "/accents/static/js/runtime~main.1dccf40c.js",
     "runtime~main.js.map": "/accents/static/js/runtime~main.1dccf40c.js.map",
-    "static/js/2.cb7ebafd.chunk.js": "/accents/static/js/2.cb7ebafd.chunk.js",
-    "static/js/2.cb7ebafd.chunk.js.map": "/accents/static/js/2.cb7ebafd.chunk.js.map",
+    "static/js/2.82b0fb8e.chunk.js": "/accents/static/js/2.82b0fb8e.chunk.js",
+    "static/js/2.82b0fb8e.chunk.js.map": "/accents/static/js/2.82b0fb8e.chunk.js.map",
     "index.html": "/accents/index.html",
-    "precache-manifest.195e127ed4b5d71dbd17d469f1c8872e.js": "/accents/precache-manifest.195e127ed4b5d71dbd17d469f1c8872e.js",
+    "precache-manifest.3f24fff7296b37d5b8e83559003266f1.js": "/accents/precache-manifest.3f24fff7296b37d5b8e83559003266f1.js",
     "service-worker.js": "/accents/service-worker.js",
-    "static/css/main.747614b2.chunk.css.map": "/accents/static/css/main.747614b2.chunk.css.map"
+    "static/css/main.a9e7e137.chunk.css.map": "/accents/static/css/main.a9e7e137.chunk.css.map",
+    "static/media/loading.a2ebf51c.svg": "/accents/static/media/loading.a2ebf51c.svg"
   }
 }
